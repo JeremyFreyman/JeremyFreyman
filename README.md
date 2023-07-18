@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyFreyman
 - 👀 I’m interested in learnig about coding, self teaching.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on any projects, am looking for experience. potentiallyt a mentor.
+- 💞️ I’m looking to collaborate on any projects, am looking for experience. potentially a mentor.
 - 📫 How to reach me jf042001@gmail.com
 
 <!---
